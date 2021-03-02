@@ -1,4 +1,4 @@
-# Interpretable and continuous AKI prediction
+# Interpretable and continuous AKI prediction in the intensive care
 
 This is an implementation of an interpretable and continuous Long-Short term Memory (LSTM) network for the task of Acute Kidney Injury (AKI) prediction in ICU settings.
 
