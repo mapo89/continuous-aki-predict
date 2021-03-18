@@ -33,3 +33,19 @@ Prediction 48 hours before the onset of AKI
 - Logistic regression
 - XGBoost
 - Random forest
+
+## Cite
+
+If you use our code in your own work please cite our paper:
+
+    @inproceedings{Vagliano:2021,
+         author = {Vagliano, Iacopo and Lvova Oleksandra and Schut Martijn C},
+         title = {Interpretable and continuous AKI prediction in the intensive care},
+         booktitle = {Proceedings of the 31st Medical Informatics Europe Conference},
+         series = {MIE 2021},
+         year = {2021},
+         location = {Athens, Greece},
+         numpages = {5},
+         publisher = {In press},
+    }
+
