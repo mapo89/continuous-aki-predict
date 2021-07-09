@@ -36,16 +36,20 @@ Prediction 48 hours before the onset of AKI
 
 ## Cite
 
-If you use our code in your own work please cite our paper:
+If you use our code in your own work please cite our paper: [Interpretable and Continuous Prediction of Acute Kidney Injury in the Intensive Care](https://doi.org/10.3233/shti210129).
+
+Bibtex:
 
     @inproceedings{Vagliano:2021,
-         author = {Vagliano, Iacopo and Lvova Oleksandra and Schut Martijn C},
-         title = {Interpretable and continuous AKI prediction in the intensive care},
-         booktitle = {Proceedings of the 31st Medical Informatics Europe Conference},
-         series = {MIE 2021},
-         year = {2021},
-         location = {Athens, Greece},
-         numpages = {5},
-         publisher = {In press},
+         author = {Vagliano, Iacopo and Lvova, Oleksandra and Schut, Martijn C},
+         title = {Interpretable and Continuous Prediction of Acute Kidney Injury in the Intensive Care},
+         booktitle = {Public Health and Informatics},
+         series = {Studies in health technology and informatics},
+         pages = {103—107},
+         DOI = {10.3233/shti210129},
+	     volume = {281},
+	     month = {May},
+	     year = {2021},
+         URL = {https://doi.org/10.3233/SHTI210129},
+         ISSN = {0926-9630},
     }
-
