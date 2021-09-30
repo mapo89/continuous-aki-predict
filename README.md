@@ -14,7 +14,7 @@ This is an implementation of an interpretable and continuous Long-Short term Mem
 
 ## Data
 
-The [MIMIC III](https://mimic.physionet.org/) dataset was used. The SQL scripts used to extract features are provided in the [MIMIC code](https://github.com/MIT-LCP/mimic-code) repository. The expected data files are:
+The [MIMIC III](https://mimic.mit.edu/docs/iii/) dataset was used. The SQL scripts used to extract features are provided in the [MIMIC code](https://github.com/MIT-LCP/mimic-code) repository. The expected data files are:
 
 1. ```kdigo_stages_measured.csv``` containing time-series measurements of creatinine, urine output for the last six, 12 and 24 hours and the respective labels. 
 2. ```icustay_detail-kdigo_stages_measured.csv``` containing non-temporal variables of patient demographics such as: age (numerical), gender (binary), ethnicity group (categorical) and type of admission (categorical).
