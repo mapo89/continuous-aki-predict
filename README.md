@@ -2,6 +2,10 @@
 
 This is an implementation of an interpretable and continuous Long-Short term Memory (LSTM) network for the task of Acute Kidney Injury (AKI) prediction in ICU settings.
 
+## Running
+
+The LSTM model can be run via the `LSTM.ipynb`; the other baseline models can be run using the `LR_XGB_RF.ipynb` notebook.
+
 ## Dependencies
 
 - torch
